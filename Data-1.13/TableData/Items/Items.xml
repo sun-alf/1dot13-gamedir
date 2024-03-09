@@ -625,7 +625,7 @@
 		<ubClassIndex>11</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>11</ubGraphicNum>
-		<ubWeight>48</ubWeight>
+		<ubWeight>45</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>1173</usPrice>
 		<ubCoolness>4</ubCoolness>
@@ -1048,7 +1048,7 @@
 		<uiIndex>23</uiIndex>
 		<szItemName>C7A2</szItemName>
 		<szLongItemName>Diemaco C7A2</szLongItemName>
-		<szItemDesc>This rifle shouts the Canuck motto, 'Anything the Yanks can do, we can do better.' This version of the M-16 is every merc's dream come true.</szItemDesc>
+		<szItemDesc>This rifle shouts the Canuck motto, 'Anything the Yanks can do, we can do better.' This version of the M16 is every merc's dream come true.</szItemDesc>
 		<szBRName>Diemaco C7A2</szBRName>
 		<szBRDesc>It's the Canadian version of the American M16A2. Trust those crazy Canucks to incorporate such safety devices as a case deflector to prevent empty cases from being flung into the faces of left-handed firers.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -1083,7 +1083,7 @@
 		<uiIndex>24</uiIndex>
 		<szItemName>FAMAS</szItemName>
 		<szLongItemName>FAMAS G2</szLongItemName>
-		<szItemDesc>Nicknamed 'The Bugle' by French Army Troops, this bullpup rifle packs the utility of the M-16 in under two-and-a-half feet.</szItemDesc>
+		<szItemDesc>Nicknamed 'The Bugle' by French Army Troops, this bullpup rifle packs the utility of the M16 in under two-and-a-half feet.</szItemDesc>
 		<szBRName>FAMAS G2</szBRName>
 		<szBRDesc>The French Army's FA-MAS rifle was the first 'bullpup' design to enter military service. It handles well and shoots quite accurately. A bipod is attached for steadier shooting.</szBRDesc>
 		<usItemClass>2</usItemClass>
@@ -1889,7 +1889,7 @@
 		<ubCursor>2</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>102</ubGraphicNum>
-		<ubWeight>1</ubWeight>
+		<ubWeight>4</ubWeight>
 		<ubPerPocket>4</ubPerPocket>
 		<ItemSize>13</ItemSize>
 		<usPrice>20</usPrice>
@@ -9765,7 +9765,7 @@
 		<ubClassIndex>330</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>53</ubGraphicNum>
-		<ubWeight>22</ubWeight>
+		<ubWeight>15</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>4</ItemSize>
 		<usPrice>1227</usPrice>
@@ -10273,7 +10273,7 @@
 		<ubClassIndex>344</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>60</ubGraphicNum>
-		<ubWeight>31</ubWeight>
+		<ubWeight>34</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>1290</usPrice>
 		<ubCoolness>4</ubCoolness>
@@ -10312,7 +10312,7 @@
 		<ubClassIndex>345</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>127</ubGraphicNum>
-		<ubWeight>37</ubWeight>
+		<ubWeight>35</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>1267</usPrice>
 		<ubCoolness>3</ubCoolness>
@@ -10384,7 +10384,7 @@
 		<ubClassIndex>347</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>136</ubGraphicNum>
-		<ubWeight>38</ubWeight>
+		<ubWeight>42</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>1823</usPrice>
 		<ubCoolness>5</ubCoolness>
@@ -17215,7 +17215,7 @@
 		<ubClassIndex>605</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>164</ubGraphicNum>
-		<ubWeight>61</ubWeight>
+		<ubWeight>65</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>2870</usPrice>
 		<ubCoolness>9</ubCoolness>
@@ -17264,7 +17264,7 @@
 		<ubClassIndex>606</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>155</ubGraphicNum>
-		<ubWeight>30</ubWeight>
+		<ubWeight>32</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>1796</usPrice>
 		<ubCoolness>4</ubCoolness>
@@ -17300,7 +17300,7 @@
 		<ubClassIndex>607</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>70</ubGraphicNum>
-		<ubWeight>34</ubWeight>
+		<ubWeight>36</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>1923</usPrice>
 		<ubCoolness>5</ubCoolness>
@@ -17336,7 +17336,7 @@
 		<ubClassIndex>608</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>256</ubGraphicNum>
-		<ubWeight>30</ubWeight>
+		<ubWeight>32</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>1721</usPrice>
 		<ubCoolness>4</ubCoolness>
@@ -17372,7 +17372,7 @@
 		<ubClassIndex>609</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>84</ubGraphicNum>
-		<ubWeight>30</ubWeight>
+		<ubWeight>32</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>1677</usPrice>
 		<ubCoolness>5</ubCoolness>
@@ -18006,7 +18006,7 @@
 		<ubClassIndex>626</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>129</ubGraphicNum>
-		<ubWeight>30</ubWeight>
+		<ubWeight>21</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>1271</usPrice>
 		<ubCoolness>3</ubCoolness>
@@ -18939,7 +18939,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>576</ubGraphicNum>
-		<ubWeight>34</ubWeight>
+		<ubWeight>35</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>4430</usPrice>
 		<ubCoolness>9</ubCoolness>
@@ -18977,7 +18977,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>577</ubGraphicNum>
-		<ubWeight>30</ubWeight>
+		<ubWeight>34</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>4230</usPrice>
 		<ubCoolness>9</ubCoolness>
@@ -19006,9 +19006,9 @@
 		<uiIndex>653</uiIndex>
 		<szItemName>FNC</szItemName>
 		<szLongItemName>FN FNC</szLongItemName>
-		<szItemDesc>A red-headed bastard stepchild of the Eastern AK-47 and the Western M-16, this Belgian beauty has an integral flash suppressor.</szItemDesc>
+		<szItemDesc>A red-headed bastard stepchild of the Eastern AK-47 and the Western M16, this Belgian beauty has an integral flash suppressor.</szItemDesc>
 		<szBRName>FN FNC</szBRName>
-		<szBRDesc>A red-headed bastard stepchild of the Eastern AK-47 and the Western M-16, this Belgian beauty has an integral flash suppressor and a Swedish twin. In the words of Gershwin, who could ask for anything more... except a lighter trigger pull.</szBRDesc>
+		<szBRDesc>A red-headed bastard stepchild of the Eastern AK-47 and the Western M16, this Belgian beauty has an integral flash suppressor and a Swedish twin. In the words of Gershwin, who could ask for anything more... except a lighter trigger pull.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>653</ubClassIndex>
@@ -19051,7 +19051,7 @@
 		<ubClassIndex>654</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>204</ubGraphicNum>
-		<ubWeight>53</ubWeight>
+		<ubWeight>51</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5640</usPrice>
 		<ubCoolness>7</ubCoolness>
@@ -19448,7 +19448,6 @@
 		<BR_NewInventory>3</BR_NewInventory>
 		<BR_UsedInventory>1</BR_UsedInventory>
 		<BR_ROF>750</BR_ROF>
-		<DefaultAttachment>1322</DefaultAttachment>
 		<DefaultAttachment>1746</DefaultAttachment>
 		<usOverheatingCooldownFactor>100.0</usOverheatingCooldownFactor>
 		<DamageChance>10</DamageChance>
@@ -19619,7 +19618,7 @@
 		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>238</ubGraphicNum>
-		<ubWeight>74</ubWeight>
+		<ubWeight>79</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>6800</usPrice>
 		<ubCoolness>8</ubCoolness>
@@ -19771,7 +19770,7 @@
 		<ubClassIndex>673</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>74</ubGraphicNum>
-		<ubWeight>15</ubWeight>
+		<ubWeight>20</ubWeight>
 		<ItemSize>4</ItemSize>
 		<usPrice>3730</usPrice>
 		<ubCoolness>9</ubCoolness>
@@ -20238,7 +20237,7 @@
 		<ubClassIndex>685</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>85</ubGraphicNum>
-		<ubWeight>41</ubWeight>
+		<ubWeight>66</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>5390</usPrice>
 		<ubCoolness>6</ubCoolness>
@@ -20794,7 +20793,7 @@
 		<ItemFlag>128</ItemFlag>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>95</ubGraphicNum>
-		<ubWeight>80</ubWeight>
+		<ubWeight>75</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>8200</usPrice>
 		<ubCoolness>9</ubCoolness>
@@ -21344,7 +21343,7 @@
 		<ubClassIndex>715</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>186</ubGraphicNum>
-		<ubWeight>32</ubWeight>
+		<ubWeight>30</ubWeight>
 		<ItemSize>5</ItemSize>
 		<usPrice>3370</usPrice>
 		<ubCoolness>8</ubCoolness>
@@ -21665,7 +21664,7 @@
 		<ubClassIndex>724</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>103</ubGraphicNum>
-		<ubWeight>10</ubWeight>
+		<ubWeight>12</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>1</ItemSize>
 		<usPrice>920</usPrice>
@@ -21735,7 +21734,7 @@
 		<ubClassIndex>726</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>98</ubGraphicNum>
-		<ubWeight>39</ubWeight>
+		<ubWeight>49</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>5390</usPrice>
 		<ubCoolness>7</ubCoolness>
@@ -22013,7 +22012,7 @@
 		<ubClassIndex>733</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>132</ubGraphicNum>
-		<ubWeight>62</ubWeight>
+		<ubWeight>58</ubWeight>
 		<ItemSize>9</ItemSize>
 		<usPrice>5440</usPrice>
 		<ubCoolness>6</ubCoolness>
@@ -22086,7 +22085,7 @@
 		<ubClassIndex>735</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>94</ubGraphicNum>
-		<ubWeight>36</ubWeight>
+		<ubWeight>42</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>5540</usPrice>
 		<ubCoolness>8</ubCoolness>
@@ -22450,7 +22449,7 @@
 		<ubClassIndex>745</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>241</ubGraphicNum>
-		<ubWeight>37</ubWeight>
+		<ubWeight>28</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>4740</usPrice>
 		<ubCoolness>8</ubCoolness>
@@ -22554,15 +22553,15 @@
 		<uiIndex>748</uiIndex>
 		<szItemName>OICW</szItemName>
 		<szLongItemName>XM-29 OICW</szLongItemName>
-		<szItemDesc>The XM-29 is part 20mm magazine fed grenade launcher, part G36 5.56mm assault rifle, and all whoop-ass.</szItemDesc>
+		<szItemDesc>The XM-29 is part 20mm magazine-fed grenade launcher, part G36 5.56mm assault rifle, and all whoop-ass.</szItemDesc>
 		<szBRName>XM-29 OICW</szBRName>
-		<szBRDesc>The XM-29 is a combination weapon, part 20mm magazine fed grenade launcher and part 5.56mm assault rifle. Both parts are assembled into a single, one-man portable unit, with a built-in target acquisition and fire control system (TA/FCS).</szBRDesc>
+		<szBRDesc>The XM-29 is a combination weapon, part 20mm magazine-fed grenade launcher and part 5.56mm assault rifle. Both parts are assembled into a single, one-man portable unit, with a built-in target acquisition and fire control system (TA/FCS).</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>748</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>73</ubGraphicNum>
-		<ubWeight>55</ubWeight>
+		<ubWeight>68</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>6060</usPrice>
 		<ubCoolness>9</ubCoolness>
@@ -22609,10 +22608,10 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>749</uiIndex>
-		<szItemName>XM-8 Auto</szItemName>
-		<szLongItemName>XM-8 Automatic</szLongItemName>
+		<szItemName>XM8 Auto</szItemName>
+		<szLongItemName>XM8 Automatic</szLongItemName>
 		<szItemDesc>This 5.56 assault platform fills a variety of roles. Ever wanted to serve someone a lead salad? Point at the enemy and pull the trigger to start feeding.</szItemDesc>
-		<szBRName>XM-8 Automatic</szBRName>
+		<szBRName>XM8 Automatic</szBRName>
 		<szBRDesc>Originally commissioned by the U.S. military, HK is now producing this 5.56mm multi-role weapon for the highest bidder. Lucky you.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
@@ -22647,11 +22646,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>750</uiIndex>
-		<szItemName>XM-8</szItemName>
-		<szLongItemName>XM-8 Baseline Carbine</szLongItemName>
-		<szItemDesc>The XM-8 is HK's response to the USA's call for a new standard army rifle. The BLC version is the standard and offers a versatile array of options.</szItemDesc>
-		<szBRName>XM-8 Baseline Carbine</szBRName>
-		<szBRDesc>The new XM-8 family of weapons is spearheading the "next gen" infantry weapons movement, after the OICW contract went belly up.</szBRDesc>
+		<szItemName>XM8</szItemName>
+		<szLongItemName>XM8 Baseline Carbine</szLongItemName>
+		<szItemDesc>The XM8 is HK's response to the USA's call for a new standard army rifle. The BLC version is the standard and offers a versatile array of options.</szItemDesc>
+		<szBRName>XM8 Baseline Carbine</szBRName>
+		<szBRDesc>The new XM8 family of weapons is spearheading the "next gen" infantry weapons movement, after the OICW contract went belly up.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>750</ubClassIndex>
@@ -22685,11 +22684,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>751</uiIndex>
-		<szItemName>XM-8 Compact</szItemName>
-		<szLongItemName>XM-8 Compact Carbine</szLongItemName>
-		<szItemDesc>The Compact is a short version of the XM-8, outfitted specifically for short-range engagements, notably urban operations.</szItemDesc>
-		<szBRName>XM-8 Compact Carbine</szBRName>
-		<szBRDesc>The Compact is a short version of the XM-8, outfitted specifically for short-range engagements, notably urban operations.</szBRDesc>
+		<szItemName>XM8 Compact</szItemName>
+		<szLongItemName>XM8 Compact Carbine</szLongItemName>
+		<szItemDesc>The Compact is a short version of the XM8, outfitted specifically for short-range engagements, notably urban operations.</szItemDesc>
+		<szBRName>XM8 Compact Carbine</szBRName>
+		<szBRDesc>The Compact is a short version of the XM8, outfitted specifically for short-range engagements, notably urban operations.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>751</ubClassIndex>
@@ -22725,11 +22724,11 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>752</uiIndex>
-		<szItemName>XM-8 Sharpshooter</szItemName>
-		<szLongItemName>XM-8 Sharpshooter</szLongItemName>
-		<szItemDesc>The Sharpshooter version of the XM-8 is the next generation designated marksman rifle, featuring a much longer, match grade, long-twist barrel, for accuracy over longer ranges.</szItemDesc>
-		<szBRName>XM-8 Sharpshooter</szBRName>
-		<szBRDesc>The Sharpshooter version of the XM-8 is the next generation designated marksman rifle, featuring a much longer, match grade, long-twist barrel, for accuracy over longer ranges.</szBRDesc>
+		<szItemName>XM8 Sharpshooter</szItemName>
+		<szLongItemName>XM8 Sharpshooter</szLongItemName>
+		<szItemDesc>The Sharpshooter version of the XM8 is the next generation designated marksman rifle, featuring a much longer, match grade, long-twist barrel, for accuracy over longer ranges.</szItemDesc>
+		<szBRName>XM8 Sharpshooter</szBRName>
+		<szBRDesc>The Sharpshooter version of the XM8 is the next generation designated marksman rifle, featuring a much longer, match grade, long-twist barrel, for accuracy over longer ranges.</szBRDesc>
 		<usItemClass>2</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>752</ubClassIndex>
@@ -22907,7 +22906,7 @@
 		<BR_ROF>750</BR_ROF>
 		<AimBonus>10</AimBonus>
 		<MinRangeForAimBonus>20</MinRangeForAimBonus>
-		<DefaultAttachment>1749</DefaultAttachment>
+		<DefaultAttachment>1746</DefaultAttachment>
 		<PercentAPReduction>20</PercentAPReduction>
 		<VisionRangeBonus>25</VisionRangeBonus>
 		<PercentTunnelVision>20</PercentTunnelVision>
@@ -22931,7 +22930,7 @@
 		<ubClassIndex>757</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>266</ubGraphicNum>
-		<ubWeight>32</ubWeight>
+		<ubWeight>41</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>2940</usPrice>
 		<ubCoolness>5</ubCoolness>
@@ -23358,7 +23357,7 @@
 		<ubClassIndex>769</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>281</ubGraphicNum>
-		<ubWeight>49</ubWeight>
+		<ubWeight>43</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>5880</usPrice>
 		<ubCoolness>6</ubCoolness>
@@ -23689,7 +23688,7 @@
 		<ubClassIndex>778</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>288</ubGraphicNum>
-		<ubWeight>50</ubWeight>
+		<ubWeight>48</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>7770</usPrice>
 		<ubCoolness>7</ubCoolness>
@@ -24061,7 +24060,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>579</ubGraphicNum>
-		<ubWeight>35</ubWeight>
+		<ubWeight>36</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>4230</usPrice>
 		<ubCoolness>9</ubCoolness>
@@ -24135,7 +24134,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>584</ubGraphicNum>
-		<ubWeight>34</ubWeight>
+		<ubWeight>35</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>4430</usPrice>
 		<ubCoolness>9</ubCoolness>
@@ -24207,7 +24206,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>586</ubGraphicNum>
-		<ubWeight>31</ubWeight>
+		<ubWeight>34</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>4230</usPrice>
 		<ubCoolness>9</ubCoolness>
@@ -24245,7 +24244,7 @@
 		<ubCursor>3</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>587</ubGraphicNum>
-		<ubWeight>35</ubWeight>
+		<ubWeight>36</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>4230</usPrice>
 		<ubCoolness>9</ubCoolness>
@@ -28409,7 +28408,7 @@
 		<ubClassIndex>907</ubClassIndex>
 		<ubCursor>20</ubCursor>
 		<ubGraphicNum>142</ubGraphicNum>
-		<ubWeight>23</ubWeight>
+		<ubWeight>25</ubWeight>
 		<ItemSize>4</ItemSize>
 		<usPrice>500</usPrice>
 		<ubCoolness>5</ubCoolness>
@@ -28436,17 +28435,17 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>908</uiIndex>
-		<szItemName>XM-25</szItemName>
-		<szLongItemName>XM-25 Grenade Launcher</szLongItemName>
-		<szItemDesc>Compared to the XM-29, the XM-25 dispenses with the complexity and weight of having an integrated kinetic energy weapon, and is purely a magazine fed, multi-shot grenade launcher.</szItemDesc>
-		<szBRName>XM-25 Grenade Launcher</szBRName>
-		<szBRDesc>Who needs bullets when you have grenades? The XM-25 is the stand-alone magazine-fed grenade system, spawned by the revamped US OICW program. To the enemies of freedom, there is still nowhere to hide.</szBRDesc>
+		<szItemName>XM25</szItemName>
+		<szLongItemName>XM25 Grenade Launcher</szLongItemName>
+		<szItemDesc>Compared to the XM-29, the XM25 dispenses with the complexity and weight of having an integrated kinetic energy weapon, and is purely a magazine-fed, multi-shot 25mm grenade launcher.</szItemDesc>
+		<szBRName>XM25 Grenade Launcher</szBRName>
+		<szBRDesc>Who needs bullets when you have grenades? The XM25 is the stand-alone 25mm magazine-fed grenade system, spawned by the revamped US OICW program. To the enemies of freedom, there is still nowhere to hide.</szBRDesc>
 		<usItemClass>16</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubClassIndex>908</ubClassIndex>
 		<ubCursor>20</ubCursor>
 		<ubGraphicNum>168</ubGraphicNum>
-		<ubWeight>54</ubWeight>
+		<ubWeight>63</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>3500</usPrice>
 		<ubCoolness>9</ubCoolness>
@@ -28629,7 +28628,7 @@
 		<ubClassIndex>913</ubClassIndex>
 		<ubCursor>20</ubCursor>
 		<ubGraphicNum>249</ubGraphicNum>
-		<ubWeight>22</ubWeight>
+		<ubWeight>15</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
 		<ItemSize>5</ItemSize>
 		<usPrice>850</usPrice>
@@ -33044,7 +33043,7 @@
 		<ubCursor>4</ubCursor>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>607</ubGraphicNum>
-		<ubWeight>20</ubWeight>
+		<ubWeight>12</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>2000</usPrice>
 		<ubCoolness>5</ubCoolness>
@@ -33360,7 +33359,7 @@
 		<ubClassIndex>1066</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>315</ubGraphicNum>
-		<ubWeight>33</ubWeight>
+		<ubWeight>32</ubWeight>
 		<ItemSize>6</ItemSize>
 		<usPrice>2900</usPrice>
 		<ubCoolness>4</ubCoolness>
@@ -33595,7 +33594,7 @@
 		<ubClassIndex>1072</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>316</ubGraphicNum>
-		<ubWeight>37</ubWeight>
+		<ubWeight>39</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>3400</usPrice>
 		<ubCoolness>6</ubCoolness>
@@ -33783,7 +33782,7 @@
 		<ubClassIndex>1077</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>325</ubGraphicNum>
-		<ubWeight>38</ubWeight>
+		<ubWeight>44</ubWeight>
 		<ItemSize>8</ItemSize>
 		<usPrice>3630</usPrice>
 		<ubCoolness>6</ubCoolness>
@@ -37147,7 +37146,7 @@
 		<ubClassIndex>1179</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>327</ubGraphicNum>
-		<ubWeight>44</ubWeight>
+		<ubWeight>52</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>1110</usPrice>
 		<ubCoolness>2</ubCoolness>
@@ -41258,7 +41257,7 @@
 		<ubClassIndex>1332</ubClassIndex>
 		<ubCursor>3</ubCursor>
 		<ubGraphicNum>359</ubGraphicNum>
-		<ubWeight>30</ubWeight>
+		<ubWeight>32</ubWeight>
 		<ItemSize>7</ItemSize>
 		<usPrice>3240</usPrice>
 		<ubCoolness>6</ubCoolness>
